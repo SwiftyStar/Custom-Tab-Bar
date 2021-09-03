@@ -10,6 +10,8 @@ The height of the tab bar should take into consideration the height of the views
 
 You may want some EnvironmentObject or other method that is updated when a new tab is selected - if you want to be able to perform some other actions when they are selected.
 
+I've added an accessibility hint for the tabs, but you may want to test in Voice Over and add additional labeling.
+
 # Example
 
 iPhone 8

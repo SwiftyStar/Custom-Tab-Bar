@@ -1,5 +1,5 @@
 # Custom-Tab-Bar
-A custom tab bar built in SwiftUI
+A custom tab bar built in SwiftUI, giving you more opportunities for customization.
 
 # Notes
 With this implementation, each screen should take all available height. This is easy since most fullscreens will use a VStack with a spacer or some other View that takes all available height.
